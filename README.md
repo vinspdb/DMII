@@ -8,6 +8,7 @@ Ogni esercitazione vive in una cartella dedicata, con il proprio codice, i propr
 
 | Cartella | Argomento | Contenuto |
 | --- | --- | --- |
+| [`DCAI/`](./DCAI) | Data-Centric pipeline con **Deepchecks** | Notebook esplorativo sul dataset dei Malicious URLs |
 | [`clustering/`](./clustering) | Clustering con **K-Means** | Notebook esplorativo e pipeline Python modulare sul dataset dei Pokémon |
 
 Nuove esercitazioni verranno aggiunte nel corso del semestre.
