@@ -1,0 +1,139 @@
+source,target,frequency
+W_Nabellen offertes,W_Nabellen offertes,13521
+A_SUBMITTED,A_PARTLYSUBMITTED,13087
+W_Completeren aanvraag,W_Completeren aanvraag,12619
+W_Nabellen incomplete dossiers,W_Nabellen incomplete dossiers,8620
+O_CREATED,O_SENT,7030
+A_PARTLYSUBMITTED,A_PREACCEPTED,6959
+A_PARTLYSUBMITTED,A_DECLINED,5301
+O_SENT,W_Completeren aanvraag,5015
+W_Completeren aanvraag,W_Nabellen offertes,3554
+O_SENT_BACK,W_Nabellen offertes,3254
+O_SELECTED,O_CREATED,3149
+A_FINALIZED,O_CREATED,2907
+O_SELECTED,A_FINALIZED,2907
+A_ACCEPTED,O_SELECTED,2879
+A_PREACCEPTED,W_Completeren aanvraag,2793
+W_Completeren aanvraag,A_ACCEPTED,2737
+W_Nabellen offertes,O_SENT_BACK,2693
+A_PREACCEPTED,W_Afhandelen leads,2515
+A_DECLINED,W_Afhandelen leads,2234
+W_Nabellen offertes,W_Valideren aanvraag,2114
+A_FINALIZED,O_SELECTED,2108
+A_ACCEPTED,A_FINALIZED,2089
+W_Valideren aanvraag,W_Nabellen incomplete dossiers,1988
+W_Valideren aanvraag,W_Valideren aanvraag,1928
+A_PREACCEPTED,A_ACCEPTED,1765
+O_SENT,W_Nabellen offertes,1619
+W_Afhandelen leads,W_Completeren aanvraag,1597
+W_Nabellen offertes,O_CANCELLED,1133
+A_DECLINED,W_Completeren aanvraag,1113
+O_CANCELLED,O_SELECTED,1041
+W_Completeren aanvraag,A_CANCELLED,989
+O_SELECTED,O_CANCELLED,974
+O_CANCELLED,O_CREATED,974
+A_ACTIVATED,W_Valideren aanvraag,941
+W_Nabellen incomplete dossiers,W_Valideren aanvraag,879
+A_CANCELLED,O_CANCELLED,864
+A_APPROVED,A_ACTIVATED,789
+O_ACCEPTED,A_REGISTERED,771
+O_CANCELLED,A_CANCELLED,767
+A_PARTLYSUBMITTED,W_Afhandelen leads,760
+A_CANCELLED,W_Completeren aanvraag,750
+W_Nabellen offertes,A_CANCELLED,732
+W_Completeren aanvraag,A_DECLINED,685
+A_APPROVED,A_REGISTERED,682
+A_REGISTERED,A_ACTIVATED,670
+O_ACCEPTED,A_APPROVED,654
+W_Afhandelen leads,A_ACCEPTED,611
+A_REGISTERED,W_Valideren aanvraag,604
+W_Afhandelen leads,A_DECLINED,602
+A_REGISTERED,A_APPROVED,581
+O_ACCEPTED,A_ACTIVATED,566
+W_Completeren aanvraag,O_SENT_BACK,561
+A_ACTIVATED,A_REGISTERED,546
+O_CANCELLED,W_Nabellen offertes,512
+A_ACTIVATED,A_APPROVED,478
+A_APPROVED,O_ACCEPTED,474
+A_CANCELLED,W_Nabellen offertes,467
+W_Completeren aanvraag,O_CANCELLED,466
+W_Nabellen offertes,O_SELECTED,449
+W_Valideren aanvraag,O_ACCEPTED,448
+W_Nabellen incomplete dossiers,O_ACCEPTED,444
+O_DECLINED,A_DECLINED,419
+W_Afhandelen leads,A_PREACCEPTED,403
+W_Completeren aanvraag,O_SELECTED,389
+A_DECLINED,O_DECLINED,383
+W_Afhandelen leads,W_Afhandelen leads,369
+W_Nabellen offertes,O_ACCEPTED,350
+A_DECLINED,W_Valideren aanvraag,348
+A_REGISTERED,O_ACCEPTED,332
+O_DECLINED,W_Valideren aanvraag,320
+A_APPROVED,W_Valideren aanvraag,275
+O_ACCEPTED,W_Valideren aanvraag,230
+O_SENT,W_Valideren aanvraag,205
+O_SENT_BACK,W_Nabellen incomplete dossiers,200
+W_Valideren aanvraag,A_APPROVED,199
+W_Nabellen offertes,A_DECLINED,199
+W_Nabellen offertes,O_DECLINED,196
+A_ACTIVATED,O_ACCEPTED,192
+O_SENT,W_Nabellen incomplete dossiers,191
+W_Nabellen incomplete dossiers,O_SENT_BACK,190
+W_Nabellen incomplete dossiers,A_APPROVED,168
+W_Nabellen offertes,A_APPROVED,165
+A_PREACCEPTED,A_DECLINED,160
+W_Nabellen incomplete dossiers,O_CANCELLED,154
+A_PREACCEPTED,A_CANCELLED,134
+W_Valideren aanvraag,O_DECLINED,126
+W_Valideren aanvraag,A_DECLINED,113
+W_Nabellen incomplete dossiers,O_SELECTED,99
+W_Nabellen incomplete dossiers,O_DECLINED,90
+A_ACTIVATED,W_Nabellen incomplete dossiers,89
+W_Beoordelen fraude,W_Beoordelen fraude,89
+W_Nabellen incomplete dossiers,A_REGISTERED,89
+W_Valideren aanvraag,A_REGISTERED,89
+W_Nabellen incomplete dossiers,A_ACTIVATED,85
+A_ACCEPTED,W_Completeren aanvraag,74
+W_Valideren aanvraag,A_ACTIVATED,74
+O_CANCELLED,W_Nabellen incomplete dossiers,70
+W_Nabellen incomplete dossiers,A_CANCELLED,69
+W_Nabellen offertes,A_REGISTERED,68
+W_Nabellen incomplete dossiers,A_DECLINED,67
+A_PARTLYSUBMITTED,W_Beoordelen fraude,67
+W_Valideren aanvraag,O_SELECTED,64
+W_Beoordelen fraude,A_DECLINED,64
+W_Valideren aanvraag,O_CANCELLED,64
+W_Nabellen offertes,A_ACTIVATED,61
+W_Afhandelen leads,A_CANCELLED,61
+A_REGISTERED,W_Nabellen incomplete dossiers,58
+A_DECLINED,W_Beoordelen fraude,57
+A_CANCELLED,W_Nabellen incomplete dossiers,57
+A_DECLINED,W_Nabellen incomplete dossiers,50
+A_ACCEPTED,A_CANCELLED,46
+O_DECLINED,W_Nabellen incomplete dossiers,36
+W_Valideren aanvraag,W_Beoordelen fraude,33
+O_DECLINED,W_Nabellen offertes,27
+A_APPROVED,W_Nabellen incomplete dossiers,26
+A_ACCEPTED,A_DECLINED,25
+W_Beoordelen fraude,W_Valideren aanvraag,25
+O_ACCEPTED,W_Nabellen incomplete dossiers,22
+A_DECLINED,W_Nabellen offertes,21
+W_Afhandelen leads,W_Beoordelen fraude,21
+W_Beoordelen fraude,W_Afhandelen leads,20
+W_Completeren aanvraag,A_FINALIZED,19
+A_CANCELLED,W_Valideren aanvraag,14
+O_CANCELLED,W_Valideren aanvraag,12
+W_Valideren aanvraag,O_SENT_BACK,10
+W_Valideren aanvraag,A_CANCELLED,9
+W_Completeren aanvraag,O_DECLINED,6
+W_Beoordelen fraude,A_PREACCEPTED,5
+W_Nabellen offertes,W_Completeren aanvraag,4
+W_Beoordelen fraude,O_ACCEPTED,3
+W_Completeren aanvraag,W_Beoordelen fraude,3
+W_Beoordelen fraude,W_Completeren aanvraag,2
+W_Beoordelen fraude,A_REGISTERED,1
+W_Beoordelen fraude,A_ACTIVATED,1
+W_Beoordelen fraude,O_SELECTED,1
+W_Beoordelen fraude,A_APPROVED,1
+W_Beoordelen fraude,O_DECLINED,1
+W_Valideren aanvraag,W_Nabellen offertes,1
