@@ -11,6 +11,7 @@ Ogni esercitazione vive in una cartella dedicata, con il proprio codice, i propr
 | [`DCAI/`](./DCAI) | Data-Centric pipeline con **Deepchecks** | Notebook esplorativo sul dataset dei Malicious URLs |
 | [`clustering/`](./clustering) | Clustering con **K-Means** | Notebook esplorativo e pipeline Python modulare sul dataset dei Pokémon |
 | [`association_pattern_mining/`](./association_rules) | Association Pattern Mining con la libreria **mlxtend** | Notebook esplorativo e pipeline Python sul dataset dei Groceries |
+| [`learning_from_data_streams/`](./learning_from_data_streams) | Stream Data Mining con la libreria **river** | Notebook esplorativo e pipeline Python con algoritmi di stream data mining |
 | [`process_mining/`](./process_mining) | Process Mining con la libreria **PM4PY** | Notebook esplorativo e pipeline Python modulare sul dataset BPIC2012 |
 
 Nuove esercitazioni verranno aggiunte nel corso del semestre.
